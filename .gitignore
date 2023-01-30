@@ -26,6 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 .ipynb_checkpoints
+.DS_Store
 MANIFEST
 
 # PyInstaller
